@@ -1,4 +1,4 @@
-Blinkit Data Analysis Project
+##Blinkit Data Analysis Project
 Overview
 This project focuses on analyzing Blinkit’s ecommerce operations using Python and MySQL to uncover insights on sales performance, customer behavior, delivery efficiency, and inventory management. The goal is to help improve business decisions through data-driven insights and visualization dashboards.
 
