@@ -21,7 +21,7 @@ File Types: CSV, XLSX, IPYNB, SQL
 |`/data/`	|Contains all Blinkit CSV datasets including orders, products, customers, delivery, and feedback.|
 |`/notebooks/`|Blinkit.ipynb	Jupyter notebook containing the complete analysis and data visualization code.|
 |`/sql/Script.sql/` |	SQL script for data extraction, cleaning, and summarization in MySQL.|
-|`/reports/Ecommerce_Sales_Analysis_Report_PDF.pdf`|	Reference project report followed to structure the final report.|
+|`/DashBoard.zip/` | Blinkit Data Analysis Project Dashboard|
 |`/reports/Final_Blinkit_Report.pdf/`|	Final project report (to be added post-completion).|
 
 ## Analysis Workflow
