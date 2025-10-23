@@ -16,51 +16,54 @@ Data Cleaning: Pandas, SQL queries
 File Types: CSV, XLSX, IPYNB, SQL
 
 ## Files and Folders
-| `Folder` | File	Description|
-|`data`	|Contains all Blinkit CSV datasets including orders, products, customers, delivery, and feedback.|
-|`notebooks`/|Blinkit.ipynb	Jupyter notebook containing the complete analysis and data visualization code.|
-|/sql/Script.sql	SQL script for data extraction, cleaning, and summarization in MySQL.|
-|`/reports/|Ecommerce_Sales_Analysis_Report_PDF.pdf`|	Reference project report followed to structure the final report.|
-|`/reports/Final_Blinkit_Report.pdf`|	Final project report (to be added post-completion).|
+| Folder | File	Description |
+|---------|----------------|
+|`/data/`	|Contains all Blinkit CSV datasets including orders, products, customers, delivery, and feedback.|
+|`/notebooks/`|Blinkit.ipynb	Jupyter notebook containing the complete analysis and data visualization code.|
+|`/sql/Script.sql/` |	SQL script for data extraction, cleaning, and summarization in MySQL.|
+|`/reports/Ecommerce_Sales_Analysis_Report_PDF.pdf`|	Reference project report followed to structure the final report.|
+|`/reports/Final_Blinkit_Report.pdf/`|	Final project report (to be added post-completion).|
 
-Analysis Workflow
-Data Preparation
+## Analysis Workflow
+**Data Preparation**
+-Import, inspect, and clean raw datasets.
+-Handle null values, correct data types, and merge across sources.
 
-Import, inspect, and clean raw datasets.
-Handle null values, correct data types, and merge across sources.
-Customer Segmentation
+**Customer Segmentation**
+-Perform RFM analysis to identify high-value customer segments.
+-Visualize top customer regions and spending patterns.
 
-Perform RFM analysis to identify high-value customer segments.
-Visualize top customer regions and spending patterns.
-Delivery Performance
+**Delivery Performance**
+-Compare on-time vs delayed deliveries by city and driver.
+-Analyze main delay causes and impact on customer feedback.
 
-Compare on-time vs delayed deliveries by city and driver.
-Analyze main delay causes and impact on customer feedback.
-Customer Feedback Analysis
+**Customer Feedback Analysis**
+-Examine rating distributions and sentiment categories.
+-Identify key negative feedback reasons for improvement.
 
-Examine rating distributions and sentiment categories.
-Identify key negative feedback reasons for improvement.
-Inventory and Sales Insights
+**Inventory and Sales Insights**
+-Plot monthly stock received vs damaged quantities.
+-Rank top product categories by revenue and order volume.
 
-Plot monthly stock received vs damaged quantities.
-Rank top product categories by revenue and order volume.
-Marketing Performance
+**Marketing Performance**
+-Analyze campaign ROAS and channel contribution to sales.
+-Correlate ad spend with conversion metrics.
 
-Analyze campaign ROAS and channel contribution to sales.
-Correlate ad spend with conversion metrics.
-Visualization Dashboard
+**Visualization Dashboard**
+-Develop an overview dashboard showing sales trends, delivery KPIs, and customer satisfaction metrics.
 
-Develop an overview dashboard showing sales trends, delivery KPIs, and customer satisfaction metrics.
-Key Visualizations
+## Key Visualizations
 Customer segmentation (RFM distribution)
 On-time vs delayed deliveries by region
 Monthly stock analysis (received vs damaged)
 Sentiment analysis of feedback
 Top product categories by revenue
-Results and Insights
+
+## Results and Insights
 Direct correlation between delivery delays and low feedback scores.
 Frequent stock damage across specific product categories.
 Top customers contribute over 40% of total sales.
 Marketing ROI highest from social media campaigns.
-Contributors
+
+## Contributors
 Vinay Raykar (Project Lead, Data Analyst)
