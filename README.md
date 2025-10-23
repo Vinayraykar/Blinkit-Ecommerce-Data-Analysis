@@ -23,6 +23,7 @@ File Types: CSV, XLSX, IPYNB, SQL
 |`/sql/Script.sql/` |	SQL script for data extraction, cleaning, and summarization in MySQL.|
 |`/DashBoard.zip/` | Blinkit Data Analysis Project Dashboard|
 |`/reports/Final_Blinkit_Report.pdf/`|	Final project report (to be added post-completion).|
+|`/Script and Images/`| Exported charts and graphics used in report|
 
 ## Analysis Workflow
 **Data Preparation**
