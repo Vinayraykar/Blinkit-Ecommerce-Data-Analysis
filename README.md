@@ -1,25 +1,28 @@
 ## Blinkit Data Analysis Project
-Overview
+## Overview
 This project focuses on analyzing Blinkit’s ecommerce operations using Python and MySQL to uncover insights on sales performance, customer behavior, delivery efficiency, and inventory management. The goal is to help improve business decisions through data-driven insights and visualization dashboards.
 
-Objectives
+## Objectives
 Analyze customer purchase behavior and segmentation using RFM analysis.
 Evaluate delivery performance and its impact on customer satisfaction.
 Study inventory movement to detect shortages or damage trends.
 Assess marketing performance and ROI across campaigns.
 Visualize overall sales, product, and operational trends with dashboards.
-Tools and Technologies Used
+
+## Tools and Technologies Used
 Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL
 Visualization: Power BI / Tableau (dashboard), Matplotlib
 Data Cleaning: Pandas, SQL queries
 File Types: CSV, XLSX, IPYNB, SQL
-Files and Folders
-Folder/File	Description
-/data/	Contains all Blinkit CSV datasets including orders, products, customers, delivery, and feedback.
-/notebooks/Blinkit.ipynb	Jupyter notebook containing the complete analysis and data visualization code.
-/sql/Script.sql	SQL script for data extraction, cleaning, and summarization in MySQL.
-/reports/Ecommerce_Sales_Analysis_Report_PDF.pdf	Reference project report followed to structure the final report.
-/reports/Final_Blinkit_Report.pdf	Final project report (to be added post-completion).
+
+## Files and Folders
+| `Folder` | File	Description|
+|`data`	|Contains all Blinkit CSV datasets including orders, products, customers, delivery, and feedback.|
+|`notebooks`/|Blinkit.ipynb	Jupyter notebook containing the complete analysis and data visualization code.|
+|/sql/Script.sql	SQL script for data extraction, cleaning, and summarization in MySQL.|
+|`/reports/|Ecommerce_Sales_Analysis_Report_PDF.pdf`|	Reference project report followed to structure the final report.|
+|`/reports/Final_Blinkit_Report.pdf`|	Final project report (to be added post-completion).|
+
 Analysis Workflow
 Data Preparation
 
